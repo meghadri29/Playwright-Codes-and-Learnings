@@ -18,3 +18,5 @@ x4=10;
 x4 /= 5; // x4 = x4 / 5
 console.log(x4); // Output: 2
 
+
+

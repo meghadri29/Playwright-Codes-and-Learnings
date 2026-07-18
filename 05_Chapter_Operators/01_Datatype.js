@@ -1,3 +1,3 @@
 // Datatype in JavaScript
-//strng, number, boolean, null, undefined, object, symbol
-//array, function, bigint
+//strng, number, boolean,bigInt, null, undefined, symbol
+//array, function, objects

@@ -6,4 +6,4 @@ let name='NULL';
 console.log(typeof name);
 
 let name1=null;
-console.log(typeof name1);
+console.log(typeof name1);  
