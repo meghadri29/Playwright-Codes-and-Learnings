@@ -4,4 +4,5 @@ console.log(arr[4]);//undefined
 
 let testResults=["Pass","Fail","Pass","Skip"];
 let mixed=[1,"hello",true,null];
+console.log(mixed);
 

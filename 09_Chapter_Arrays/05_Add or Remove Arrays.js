@@ -9,6 +9,7 @@ console.log(arr);
 arr.pop();
 console.log(arr);
 
+let arr=[1,2,3];
 arr.push(5,6);
 console.log(arr);
 

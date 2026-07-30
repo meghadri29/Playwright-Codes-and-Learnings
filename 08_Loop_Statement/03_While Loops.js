@@ -23,3 +23,21 @@ while (modi <= 15) {
     modi++;
 
 }
+
+// Very Important 
+1. 
+let i = 0;
+while (i < 5) 
+{ 
+console.log(i);
+  i++;
+}
+// Prints 0,1,2,3,4
+2.
+let i = 0;
+while (i < 5) 
+{ 
+  i++;
+}
+console.log(i);
+// Prints 5. 

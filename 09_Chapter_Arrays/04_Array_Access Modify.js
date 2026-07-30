@@ -7,3 +7,4 @@ console.log(status.at(-2));
 status[1]="blocked";
 console.log(status);
 console.log(status.length);
+
